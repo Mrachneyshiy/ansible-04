@@ -243,6 +243,8 @@ lighthouse-03 : ok=7 changed=0 unreachable=0 failed=0 skipped=0 rescued=0 ignore
 #### 11. В ответе дайте ссылки на оба репозитория с roles и одну ссылку на репозиторий с playbook.
 
 1. - [Lighthouse-role](https://github.com/Mrachneyshiy/lighthouse-role.git) 
+2. - [Vector-role](https://github.com/Mrachneyshiy/vector-role.git) 
+3. - [Playbook](https://github.com/Mrachneyshiy/ansible-04.git) 
 
 ---
 
