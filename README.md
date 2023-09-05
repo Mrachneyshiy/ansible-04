@@ -242,6 +242,8 @@ lighthouse-03 : ok=7 changed=0 unreachable=0 failed=0 skipped=0 rescued=0 ignore
 #### 10. Выложите playbook в репозиторий.
 #### 11. В ответе дайте ссылки на оба репозитория с roles и одну ссылку на репозиторий с playbook.
 
+1. - [Lighthouse-role](https://github.com/Mrachneyshiy/lighthouse-role.git) 
+
 ---
 
 ### Как оформить решение задания
